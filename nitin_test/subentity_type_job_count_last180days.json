@@ -1,0 +1,1 @@
+[{"_id": {"jobType": "generate_sample"}, "count": 8},{"_id": {"jobType": "source_crawl_tpt"}, "count": 1},{"_id": {"jobType": "pipeline_build"}, "count": 10},{"_id": {"jobType": "source_semistructured_crawl"}, "count": 7}]
